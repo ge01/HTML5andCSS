@@ -17,3 +17,9 @@ h2 {
   border-style: solid;
   border-radius: 50%;
 }
+.gray-background{
+  background-color: gray;
+}
+#cat-photo-form{
+  background-color: green;
+}
